@@ -1,5 +1,11 @@
 # GameChanger 2.0
 
+<!-- repo-intro:start -->
+**Project snapshot:** GameChanger 2.0 is an AI-assisted utility-research and lead-operations prototype for managing prospects, conversations, appointment booking, and multi-provider AI workflows.
+
+**What it demonstrates:** Next.js · TypeScript · AI provider abstraction · lead management · scheduling UX.
+<!-- repo-intro:end -->
+
 An AI-powered utility research platform to help representatives manage leads, conduct AI-assisted outreach, and book appointments.
 
 ## MVP Features
